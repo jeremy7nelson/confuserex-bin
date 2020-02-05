@@ -1,2 +1,2 @@
 # confuserex-bin
-ConfuserEx command line binaries. See [yck1509/ConfuserEx](https://github.com/yck1509/ConfuserEx).
+ConfuserEx command line binaries. See [mkaring/ConfuserEx](https://github.com/mkaring/ConfuserEx).
